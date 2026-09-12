@@ -1,4 +1,4 @@
-import React, { type Dispatch, type SetStateAction } from "react";
+import { type Dispatch, type SetStateAction } from "react";
 //import PlayerCard from "./PlayerCard";
 import { TbTrash } from "react-icons/tb";
 import type { Iplayer } from "../../types/playersType";

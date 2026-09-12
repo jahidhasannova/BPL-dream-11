@@ -3,7 +3,7 @@ import Banner from "./components/Banner"
 import Players from "./components/Players/players";
 import { Suspense } from "react";
 import type { Iplayer } from "./types/playersType";
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 
 const playersFetch = async (): Promise<Iplayer[]> => {

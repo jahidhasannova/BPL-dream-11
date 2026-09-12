@@ -1,5 +1,5 @@
 
-import React from 'react';
+//import React from 'react';
 import bgShado from '../assets/bg-shadow.png';
 import BannerImage from '../assets/banner-main.png';
 //import Players from './Players/players';
